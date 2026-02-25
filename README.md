@@ -91,8 +91,7 @@ Luego presionar **Play ▶ en Unity**.
 | Tecla | Acción |
 |------|--------|
 | W A S D | Movimiento |
-| Mouse | Apuntar |
-| Click izquierdo | Disparar |
+| Space | Disparar |
 
 ---
 
