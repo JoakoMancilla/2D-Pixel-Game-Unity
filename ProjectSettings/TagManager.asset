@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Weapon
+  - Bullet
+  - Map
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1Sky
+    uniqueID: 4291898853
+    locked: 0
+  - name: 2Background
+    uniqueID: 1257061797
+    locked: 0
+  - name: 3Building
+    uniqueID: 3301550795
+    locked: 0
+  - name: 4NearBuilding
+    uniqueID: 21360703
+    locked: 0
+  - name: 5Foreground
+    uniqueID: 3202606553
+    locked: 0
+  - name: 6Map
+    uniqueID: 3461612347
+    locked: 0
+  - name: 7Player
+    uniqueID: 1986298739
+    locked: 0
+  - name: 8Niebla
+    uniqueID: 2024096531
+    locked: 0
+  m_RenderingLayers:
+  - Default
