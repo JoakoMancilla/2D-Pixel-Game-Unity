@@ -1,0 +1,9 @@
+# Ignorar shaders automáticos
+*.shader linguist-detectable=false
+*.shadergraph linguist-detectable=false
+*.cginc linguist-detectable=false
+*.hlsl linguist-detectable=false
+
+# Ignorar archivos generados
+*.mat linguist-detectable=false
+*.asset linguist-detectable=false
