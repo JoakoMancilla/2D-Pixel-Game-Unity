@@ -6,6 +6,8 @@ Este proyecto forma parte de mi **portafolio como desarrollador de videojuegos y
 
 ---
 
+<img width="1472" height="704" alt="Game2D" src="https://github.com/user-attachments/assets/51bb0ec9-d8ac-4fea-995e-212391c9c245" />
+
 ## 🌌 Historia y temática
 
 En un **mundo post-apocalíptico dominado por máquinas**, controlas a un **robot explorador armado con un blaster** cuya misión es sobrevivir y enfrentar a una **bruja intergaláctica robótica**, una entidad que controla fuerzas desconocidas y ha corrompido el planeta.
@@ -152,6 +154,11 @@ Sistema de menú
 Sistema de profundidad visual
 
 ---
+
+<img width="2552" height="1212" alt="Gameplay Liminal Robot" src="https://github.com/user-attachments/assets/edaf56e6-189f-4062-a10e-28f6935cc5ab" />
+
+<img width="1907" height="868" alt="Captura de pantalla 2025-11-21 012818" src="https://github.com/user-attachments/assets/63a49267-77b7-4210-8c44-bb7ae14bd8ff" />
+
 
 ## 🎯 Objetivo del proyecto
 
