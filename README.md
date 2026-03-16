@@ -201,3 +201,4 @@ https://github.com/JoakoMancilla
 
 Este proyecto **no incluye build ejecutable**.  
 Debe ejecutarse desde Unity.
+Assets: itch.io
